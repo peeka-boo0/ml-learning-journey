@@ -1,52 +1,39 @@
-# 🚀 ML Learning Journey
+# ML Learning Journey 📓
 
-This repository documents my **daily practice** in Machine Learning & Artificial Intelligence — starting from intermediate Python and working towards building real-world projects and becoming **job-ready** in AI/ML.
-
-I’m following a **task-based daily learning plan** that covers:
-- Python for Data Science
-- Data Preprocessing & Analysis
-- Machine Learning Algorithms
-- Model Evaluation & Tuning
-- Real Projects for Portfolio
-- Deployment & MLOps Basics
+This repository contains my step-by-step learning journey in Machine Learning, starting from Python data libraries to model evaluation techniques.  
+Each day contains a Jupyter Notebook with code, explanations, and examples.
 
 ---
 
-## 📅 Daily Progress
+## 📅 Learning Progress
 
-| Day  | Topic / Task  | Notebook Link |
-|------|--------------|--------------|
-| 1    | NumPy Basics & Arrays | [Day1_NumPy.ipynb](notebooks/Day1_NumPy.ipynb) |
-| 2    | Pandas Basics & DataFrames | [Day2_Pandas.ipynb](notebooks/Day2_Pandas.ipynb) |
-| 3    | Exploratory Data Analysis | [Day3_EDA_Titanic.ipynb](notebooks/Day3_EDA_Titanic.ipynb) |
-| 4    | Simple ML Model - Decision Tree | [Day4_DecisionTree.ipynb](notebooks/Day4_DecisionTree.ipynb) |
-| 5    | Train-Test Split & Accuracy | [Day5_ModelEvaluation.ipynb](notebooks/Day5_ModelEvaluation.ipynb) |
-| 6    | Confusion Matrix & Metrics | [Day6_Metrics.ipynb](notebooks/Day6_Metrics.ipynb) |
-| 7    | Cross-Validation | [Day7_CrossValidation.ipynb](notebooks/Day7_CrossValidation.ipynb) |
-| 8    | k-Fold Cross Validation | [Day8_kFold.ipynb](notebooks/Day8_kFold.ipynb) |
-| 9    | Hyperparameter Tuning (Grid Search) | [Day9_GridSearch.ipynb](notebooks/Day9_GridSearch.ipynb) |
-| ...  | More coming soon! | - |
+1. **[Day 1 – NumPy](notebooks/Day_1_Numpy.ipynb)**  
+   Introduction to NumPy, arrays, indexing, slicing, and basic numerical operations.
 
----
+2. **[Day 2 – Pandas](notebooks/Day_2_Pandas.ipynb)**  
+   Working with Pandas DataFrames, Series, data selection, filtering, and basic operations.
 
-## 🛠 Tools & Libraries
-- **Python** (NumPy, Pandas)
-- **Matplotlib** / **Seaborn**
-- **Scikit-learn**
-- Google Colab / Jupyter Notebook
-- Git & GitHub for version control
+3. **[Day 3 – Data Preprocessing](notebooks/Day_3_Data_Preprocessing.ipynb)**  
+   Handling missing values, encoding categorical data, feature scaling, and splitting datasets.
 
----
+4. **[Day 4 – Linear Model & Metrics](notebooks/Day_4_Linear_Model_and_Metrics.ipynb)**  
+   Building linear regression models, calculating accuracy, MAE, MSE, RMSE.
 
-## 🎯 Goals
-- Master **core AI/ML concepts**
-- Build **at least 5 real-world projects**
-- Be ready for **internship/job opportunities** in ML/AI
-- Explore **MLOps & deployment**
+5. **[Day 5 – Decision Tree](notebooks/Day_5_Decision_Tree.ipynb)**  
+   Decision Tree basics, Gini index, entropy, and visualizing trees.
+
+6. **[Day 6 – Grid Search & Hyperparameter Tuning](notebooks/Day_6_GridSearch_Hyperparameter_Tuning.ipynb)**  
+   Finding the best parameters for a model using GridSearchCV.
+
+7. **[Day 7 – Logistic Regression & Model Evaluation](notebooks/Day_7_Logistic_Regression_and_Model_Evaluation.ipynb)**  
+   Logistic regression for classification, confusion matrix, precision, recall, F1-score.
+
+8. **[Day 8 – Cross Validation](notebooks/Day_8_Cross_Validation.ipynb)**  
+   Understanding k-fold cross-validation and evaluating model stability.
 
 ---
 
-## 📌 How to Use
-1. Clone the repo:
+## 📌 How to Run the Notebooks
+1. Clone this repo:
    ```bash
    git clone https://github.com/peeka-boo0/ml-learning-journey.git
