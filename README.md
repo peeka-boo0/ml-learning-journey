@@ -48,6 +48,5 @@ I’m following a **task-based daily learning plan** that covers:
 
 ## 📌 How to Use
 1. Clone the repo:
-   git clone https://github.com/peeka-boo0/ml-learning-journey.git
    ```bash
    git clone https://github.com/peeka-boo0/ml-learning-journey.git
