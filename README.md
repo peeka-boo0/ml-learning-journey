@@ -37,3 +37,8 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 1. Clone this repo:
    ```bash
    git clone https://github.com/peeka-boo0/ml-learning-journey.git
+## ✍️ Author
+
+**Peeka-Boo0**  
+GitHub: [@peeka-boo0](https://github.com/peeka-boo0)  
+Email: sahil31thakur01@gmail.com
