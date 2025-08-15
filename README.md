@@ -31,6 +31,9 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 8. **[Day 8 – Cross Validation](notebooks/Day_8_Cross_Validation.ipynb)**  
    Understanding k-fold cross-validation and evaluating model stability.
 
+9. **[Day 9 – Grid Search](notebooks/)**  
+   Understanding k-fold grid search and hypertuning the model.
+
 ---
 
 ## 📌 How to Run the Notebooks
