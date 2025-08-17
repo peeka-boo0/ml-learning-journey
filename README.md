@@ -32,7 +32,7 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
    Understanding k-fold cross-validation and evaluating model stability.
 
 9. **[Day 9 – Grid Search](notebooks/Day_9_gridsearchcv_decisiontree.ipynb)**  
-   Understanding k-fold grid search and hypertuning the model .
+   Understanding k-fold grid search and hypertuning the model.
 
 ---
 
