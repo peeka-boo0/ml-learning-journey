@@ -6,7 +6,7 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 ---
 ## 📅 Learning Progress
 ---
-1. **[Part 1 : Basices](notebooks/)**
+1. **[Part 1 : Basices](notebooks/notebook_1)**
        ## 📘 Machine Learning Practice (Day 1–16).
 * **Python foundations**: Practiced with **NumPy** (arrays, math ops) and **pandas** (dataframes, cleaning, filtering).
 * **Model training basics**: Logistic Regression, Decision Trees, Random Forests.
@@ -16,6 +16,10 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 * **Cross-validation**: KFold, StratifiedKFold, ShuffleSplit.
 * **Metrics**: Precision, Recall, F1-score (focus on recall in medical-type problems).
 * **Imbalanced data**: `class_weight` parameter for handling skewed datasets.
+
+2. **[Part 2 : lill adv stuff ](notebooks/notebook_2)**
+       ## 📘 Machine Learning Practice (Day 17-..).
+working on it
 ---
 
 
