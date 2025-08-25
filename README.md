@@ -4,6 +4,19 @@ This repository contains my step-by-step learning journey in Machine Learning, s
 Each day contains a Jupyter Notebook with code, explanations, and examples.
 
 ---
+## 📅 Learning Progress
+---
+1. **[Part 1 : Basices](ml-learning-journey/notebooks)**
+       ## 📘 Machine Learning Practice (Day 1–16).
+* **Python foundations**: Practiced with **NumPy** (arrays, math ops) and **pandas** (dataframes, cleaning, filtering).
+* **Model training basics**: Logistic Regression, Decision Trees, Random Forests.
+* **Model evaluation**: Train/test split, accuracy, overfitting vs underfitting.
+* **Hyperparameter tuning**: `GridSearchCV` for Random Forests & Pipelines.
+* **Feature handling**: Feature importance, PCA (dimensionality reduction), avoiding data leakage with Pipelines.
+* **Cross-validation**: KFold, StratifiedKFold, ShuffleSplit.
+* **Metrics**: Precision, Recall, F1-score (focus on recall in medical-type problems).
+* **Imbalanced data**: `class_weight` parameter for handling skewed datasets.
+---
 
 
 ## 📌 How to Run the Notebooks
