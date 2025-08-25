@@ -1,6 +1,6 @@
 ## 📅 Learning Progress
 
-1. **[Day 1 – NumPy](notebooks/notebook_1/Day_01_Numpy.ipynb)**  
+1. **[Day 1 – NumPy](notebook_1/Day_01_Numpy.ipynb)**  
    Introduction to NumPy, arrays, indexing, slicing, and basic numerical operations.
 
 2. **[Day 2 – Pandas](notebooks/notebook_1/Day_02_Pandas.ipynb)**  
