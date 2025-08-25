@@ -6,7 +6,7 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 ---
 ## 📅 Learning Progress
 ---
-1. **[Part 1 : Basices](ml-learning-journey/notebooks)**
+1. **[Part 1 : Basices](notebooks/)**
        ## 📘 Machine Learning Practice (Day 1–16).
 * **Python foundations**: Practiced with **NumPy** (arrays, math ops) and **pandas** (dataframes, cleaning, filtering).
 * **Model training basics**: Logistic Regression, Decision Trees, Random Forests.
