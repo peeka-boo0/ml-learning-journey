@@ -18,7 +18,7 @@ Each day contains a Jupyter Notebook with code, explanations, and examples.
 * **Imbalanced data**: `class_weight` parameter for handling skewed datasets.
 
 2. **[Part 2 : lill adv stuff ](notebooks/notebook_2)**
-       ## 📘 Machine Learning Practice (Day 17-..).
+       ## 📘 Machine Learning Practice (Day 17-21..).
 working on it
 ---
 
